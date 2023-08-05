@@ -68,4 +68,4 @@ ls
 ```
 
 ## [OSiNT Industrys](https://osint.industries/)
-OSiNT Industrys is a website I highly reccomend. Just by using someones phone or email address you can gather a json file of data connected to that information. Click [here](https://osint.industries/) to use it!
+OSiNT Industrys is a website I highly reccomend. Just by using someones phone or email address you can gather a json file of data connected to that information. Click [here](https://osint.industries/) to use it! It's completly free to make an account and it scans over 200 websites!
